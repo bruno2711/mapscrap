@@ -1,0 +1,9 @@
+requests
+beautifulsoup4
+lxml
+selenium
+webdriver-manager
+pandas
+geopy
+python-dotenv
+tqdm
